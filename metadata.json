@@ -1,0 +1,6 @@
+{
+  "name": "School Portal",
+  "description": "Comprehensive school management portal with barcode attendance tracking, student profiles, report cards, notifications, and admin store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
